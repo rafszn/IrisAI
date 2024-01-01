@@ -81,9 +81,10 @@ span{
 label{
   color: rgb(122, 117, 117);
   margin-left: 15px;
+  font-size: 17px;
 }
 .test{
-  width: 85%;
+  width: 88%;
   margin: auto;
   padding: 20px;
   background-color: #5C97B212;
